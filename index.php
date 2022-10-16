@@ -40,7 +40,7 @@
         </div>
         <div class="mb-3">
             <label for="validationTooltip05" class="form-label">Código Postal</label>
-            <input type="number" max="5"  class="form-control" name="codigoPostal" id="validationTooltip05" aria-describedby="helpId" require>
+            <input type="number" class="form-control" name="codigoPostal" id="validationTooltip05" aria-describedby="helpId" require>
             <small id="helpId" class="form-text text-muted">Debe de contener 5 caracteres. Ejemplo: 31500  </small>
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
